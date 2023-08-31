@@ -6,6 +6,10 @@ body {
 	background-image: url("../images/Neuromics_Gray.png")
 }
 
+img.banner {
+	width:95%;
+	max-width:600px;
+}
 .bu-color {
 	background: #cc0000;
 }
