@@ -10,6 +10,9 @@ img.banner {
 	width:95%;
 	max-width:600px;
 }
+.link-banner {
+	max-width:660px;
+}
 .bu-color {
 	background: #cc0000;
 }
