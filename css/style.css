@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+body {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 400;
+	background-image: url("../images/Neuromics_Gray.png")
+}
+
+.bu-color {
+	background: #cc0000;
+}
+h1.title {
+	font-weight: 700;
+}
+
+a:hover {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 300;
+	text-decoration: none;
+}
+
+.child {
+	align-self: flex-end;
+	transform-origin: center;
+	transition: transform ease-out 0.1s;
+}
+.poke:hover {
+	transform: scale(1.1);
+}
+
+.bg-bu {
+	background-color: #cc0000 !important;
+	color: #fff;
+}
+
+@media screen{
+}
+
+@media screen{
+}
